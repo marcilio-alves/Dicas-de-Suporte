@@ -1,5 +1,6 @@
-# Aprendendo a Usar o Git
-Repositório fito para Iniciantes útilizarem o Git
+
+<h1>Aprendendo a Usar o Git</h1>
+Repositório feito para Iniciantes útilizarem o Git
 
 ## Links Úteis
 
